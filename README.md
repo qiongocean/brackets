@@ -1,5 +1,7 @@
 Welcome to Brackets! [![Build Status](https://travis-ci.org/adobe/brackets.svg?branch=master)](https://travis-ci.org/adobe/brackets)
 -------------------
+欢迎来到Brackets的世界！[![Build Status](https://travis-ci.org/adobe/brackets.svg?branch=master)](https://travis-ci.org/adobe/brackets)
+-------------------
 
 This is an early version of Brackets, a code editor for HTML, CSS
 and JavaScript that's *built* in HTML, CSS and JavaScript. 
